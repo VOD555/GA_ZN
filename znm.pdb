@@ -1,0 +1,13 @@
+TITLE     Nonbonded Dummy Model of Zinc,300K,BOX(M)=1.86206NM, SJF, 2017
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   18.621   18.621   18.621  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  ZNM ZNM     1       0.000   0.000   0.000  1.00  0.00            
+ATOM      2  DM1 ZNM     1      -0.900   0.000   0.000  1.00  0.00            
+ATOM      3  DM2 ZNM     1       0.000  -0.900   0.000  1.00  0.00            
+ATOM      4  DM3 ZNM     1       0.000   0.000  -0.900  1.00  0.00            
+ATOM      5  DM4 ZNM     1       0.900   0.000   0.000  1.00  0.00            
+ATOM      6  DM5 ZNM     1       0.000   0.900   0.000  1.00  0.00            
+ATOM      7  DM6 ZNM     1       0.000   0.000   0.900  1.00  0.00            
+TER
+ENDMDL
